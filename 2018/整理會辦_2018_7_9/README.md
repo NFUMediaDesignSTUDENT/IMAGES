@@ -1,8 +1,8 @@
 # 新官上任!一起來整理會辦拉! #
 整理前  
-![AFTER1](a.jpg)
-整理後  
 ![BEFORE1](b.jpg)
+整理後  
+![AFTER1](a.jpg)
 ![GROUP](groupShot.jpg)
 下面為360圖  
 ![BEFORE](BEFORE_360.jpg)
