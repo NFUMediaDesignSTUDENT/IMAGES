@@ -8,15 +8,15 @@
 > 4.  PM 9:00  場地復原
 >   
 以下為拍攝畫面
-![tri1](member1.jpg)
-![tri2](member2.jpg)
-![tri3](member3.jpg)
-![tri4](member4.jpg)
-![tri5](member5.jpg)
-![tri6](member6.jpg)
-![tri7](member7.jpg)
-![tri8](member8.jpg)
-![tri9](member9.jpg)
+![tri1](member1.png)
+![tri2](member2.png)
+![tri3](member3.png)
+![tri4](member4.png)
+![tri5](member5.png)
+![tri6](member6.png)
+![tri7](member7.png)
+![tri8](member8.png)
+![tri9](member9.png)
 攝影: 鄭策
 
 
